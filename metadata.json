@@ -1,0 +1,6 @@
+{
+  "name": "HSK Tours & Travels",
+  "description": "Corporate travel, luxury fleet booking, multi-platform online payments (UPI, Cards, NetBanking), AI trip planner, and fleet management system for HSK Tours & Travels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
